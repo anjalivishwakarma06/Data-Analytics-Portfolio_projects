@@ -13,7 +13,7 @@ Welcome to my data analytics repository! This space showcases production-ready p
 
 ### 📂 Project Resources
 - [📄 View SQL Code Scripts](./SQL_queries.sql)
-- [📘 Project Requirement Prompt](./Assignment%202.pdf)
+- [📘 Project Requirement Specifications](./Healthcare_System_Analytics.pdf)
 
 ---
 
@@ -28,4 +28,4 @@ Welcome to my data analytics repository! This space showcases production-ready p
 ### 📂 Project Resources
 - [📊 Final Cleaned Master Dataset](./Clean_datafile.xlsx)
 - [📕 Technical Case Study PDF Report](./data_analysis_clean_ELT_file.pdf)
-- [📘 Project Requirement Prompt](./Assignment%201.pdf)
+- [📘 Project Requirement Specifications](./Corporate_Data_Quality_Requirements.pdf)
